@@ -2,4 +2,5 @@
 __pycache__/
 *.pyc
 timetables/current_*.json
+timetables/baseline_*.json
 .DS_Store
